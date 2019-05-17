@@ -16,7 +16,7 @@ import sys
 
 # In[13]:
 
-
+### TO TEST GIT HUB
 def common_anc(node0,node1):
     z=[node0,node1]
     com=''
@@ -159,7 +159,7 @@ print(Xsim.cov()-unstr_cov)
 #
 #
 ##mvn.graphplot(data='pcorr')
-#
+#plt.show()
 #
 ## In[34]:
 #
